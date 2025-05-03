@@ -44,19 +44,17 @@ To run this toolkit, follow these steps:
 
 2. Clone the repository or download all three .py files into a folder.
 
-3. Open a terminal in that folder and run the main.py file:
-
-**python main.py**
+3. Open a terminal in that folder and run the main.py file: **python main.py**
 
 4. You will see a menu with three choices:
 
-- Port Scanner
+   - Port Scanner
 
-- Brute Force Simulator
+   - Brute Force Simulator
 
-- Exit
+   - Exit
 
 5. Enter the number of your choice to start using the tool.
 
-Make sure you have internet access if you are scanning a domain name, and only use this tool on networks you have permission to test.
+   Make sure you have internet access if you are scanning a domain name, and only use this tool on networks you have permission to test.
   
