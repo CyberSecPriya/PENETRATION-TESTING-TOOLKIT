@@ -57,4 +57,39 @@ To run this toolkit, follow these steps:
 5. Enter the number of your choice to start using the tool.
 
  Make sure you have internet access if you are scanning a domain name, and only use this tool on networks you have permission to test.
-  
+
+# OUTPUT 
+
+**MAIN MENU**
+
+**PORT SCANNER OUTPUT**
+
+**BRUTE FORCE SIMULATOR OUTPUT**
+
+# WHAT I LEARNED
+
+Through this project, I gained hands-on experience with:
+
+- Python scripting for cybersecurity purposes
+
+- Modular programming
+
+- Network sockets and TCP port scanning
+
+- Basic brute-force attack logic
+
+- Structuring a command-line interface
+
+- Git and GitHub version control
+
+# NOTE
+
+This project is created for educational purposes. Please use it ethically and responsibly.
+
+# CONCLUSION
+
+This project taught me the basics of how penetration testing tools are structured and used. I learned how to write Python scripts that interact with networks and simulate brute-force attacks in a controlled and safe way. It improved my programming skills, my understanding of cybersecurity concepts, and how to create clean, modular code.
+
+By working on this toolkit, I also understood how simple tools used by ethical hackers can reveal weak points in a system such as open ports or weak passwords. I feel more confident in my journey to becoming a Cyber Threat Intelligence Analyst or an Ethical Hacker.
+
+Thanks to my internship mentor and program for giving me the opportunity to build this toolkit. It has been a great learning experience. This is just the beginning of my journey into ethical hacking and cybersecurity, and I plan to keep learning, improving this toolkit, and building more advanced tools in the future.
