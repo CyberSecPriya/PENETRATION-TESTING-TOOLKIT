@@ -66,7 +66,9 @@ To run this toolkit, follow these steps:
 
 2. **PORT SCANNER OUTPUT**
 
-3. **BRUTE FORCE SIMULATOR OUTPUT**
+![Image](https://github.com/user-attachments/assets/8ef01f93-2a6d-4253-8358-4d3cebf72ba6)   
+
+4. **BRUTE FORCE SIMULATOR OUTPUT**
 
  ![Image](https://github.com/user-attachments/assets/b163afa1-8a27-415e-b1bc-93a91d1bdc89)  
 
