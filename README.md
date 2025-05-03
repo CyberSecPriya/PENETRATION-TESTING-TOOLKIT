@@ -13,3 +13,9 @@
 *MENTOR* : NEELA SANTOSH
 
 # DESCRIPTION
+
+This Penetration Testing Toolkit is a Python-based project developed as part of a cybersecurity internship. The main aim of this toolkit is to help beginners understand how penetration testing works using simple, educational simulations. It consists of two main modules: a Port Scanner and a Brute Force Password Simulator. These tools are not meant for real hacking, but to demonstrate how ethical hackers think and test systems for vulnerabilities in a legal and responsible way.
+
+The toolkit is built using Python and works entirely in the terminal. The port scanner scans the most common 1024 ports on a given IP address or domain to find which ones are open. Open ports can reveal information about running services and possible entry points. The brute-force simulator attempts to "guess" a password from a given wordlist and shows how weak passwords can be cracked using this technique.
+
+The entire tool is modular. Each function is written in its own file (`port_scanner.py`, `brute_forcer.py`) and combined together in `main.py`. This project helped me gain hands-on experience in Python scripting, understanding penetration testing basics, and organizing clean, understandable code.
