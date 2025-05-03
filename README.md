@@ -68,6 +68,8 @@ To run this toolkit, follow these steps:
 
 3. **BRUTE FORCE SIMULATOR OUTPUT**
 
+ ![Image](https://github.com/user-attachments/assets/b163afa1-8a27-415e-b1bc-93a91d1bdc89)  
+
 # WHAT I LEARNED
 
 Through this project, I gained hands-on experience with:
