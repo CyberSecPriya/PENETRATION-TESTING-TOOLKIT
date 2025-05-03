@@ -19,3 +19,13 @@ This Penetration Testing Toolkit is a Python-based project developed as part of 
 The toolkit is built using Python and works entirely in the terminal. The port scanner scans the most common 1024 ports on a given IP address or domain to find which ones are open. Open ports can reveal information about running services and possible entry points. The brute-force simulator attempts to "guess" a password from a given wordlist and shows how weak passwords can be cracked using this technique.
 
 The entire tool is modular. Each function is written in its own file (`port_scanner.py`, `brute_forcer.py`) and combined together in `main.py`. This project helped me gain hands-on experience in Python scripting, understanding penetration testing basics, and organizing clean, understandable code.
+
+# FEATURES
+
+The toolkit currently includes two main modules:
+
+1. **Port Scanner**  
+   Scans common TCP ports (1–1024) on a given IP address or domain to identify open ports.
+
+2. **Brute Force Simulator**  
+   Simulates a password brute-force attack by trying a list of potential passwords (wordlist) against a target username.
