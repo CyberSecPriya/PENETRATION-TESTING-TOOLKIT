@@ -29,3 +29,9 @@ The toolkit currently includes two main modules:
 
 2. **Brute Force Simulator**  
    Simulates a password brute-force attack by trying a list of potential passwords (wordlist) against a target username.
+
+# FILES INCLUDED
+
+- `main.py` → The main program that connects all modules and provides a menu-based interface.
+- `port_scanner.py` → Contains the code for scanning open ports on a given host.
+- `brute_forcer.py` → Contains the brute-force simulation function.
