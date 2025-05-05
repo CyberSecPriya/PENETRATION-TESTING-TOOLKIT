@@ -62,13 +62,34 @@ To run this toolkit, follow these steps:
 
 1. **MAIN MENU**
 
+Displays the main options of the Penetration Testing Toolkit:
+
+- `Port Scanner`: Scans for open ports on a target.
+
+- `Brute Force Simulator`: Simulates a brute-force attack on a given username.
+
+- `Exit`: Closes the program.  
+
 ![Image](https://github.com/user-attachments/assets/9c13285a-1bc2-42ed-b04b-21ea6b7ba110)
 
 2. **PORT SCANNER OUTPUT**
 
+- Target: `127.0.0.1` (localhost)
+
+- Result: Found two open ports –
+
+  - Port 135 (used for RPC)
+
+  - Port 445 (used for SMB file sharing)   
+
 ![Image](https://github.com/user-attachments/assets/8ef01f93-2a6d-4253-8358-4d3cebf72ba6)   
 
 4. **BRUTE FORCE SIMULATOR OUTPUT**
+
+- Target User: `admin`
+
+- Action: Initiated a simulated brute-force attack, trying different passwords for the `admin` 
+  user.
 
  ![Image](https://github.com/user-attachments/assets/b163afa1-8a27-415e-b1bc-93a91d1bdc89)  
 
