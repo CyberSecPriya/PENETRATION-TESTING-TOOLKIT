@@ -62,7 +62,7 @@ To run this toolkit, follow these steps:
 
 1. **MAIN MENU**
 
-Displays the main options of the Penetration Testing Toolkit:
+ Displays the main options of the Penetration Testing Toolkit:
 
 - `Port Scanner`: Scans for open ports on a target.
 
