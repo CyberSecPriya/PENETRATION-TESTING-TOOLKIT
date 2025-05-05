@@ -60,7 +60,7 @@ To run this toolkit, follow these steps:
 
 # OUTPUT 
 
- 1. **MAIN MENU**
+1. **MAIN MENU**
 
  Displays the main options of the Penetration Testing Toolkit:
 
